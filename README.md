@@ -1,4 +1,4 @@
-#NumPy Even-Odd Separator 🔢
+## NumPy Even-Odd Separator 🔢
 A high-performance Python tool designed to separate numerical data into distinct Even and Odd categories using NumPy Vectorization.
 
 🚀 The Challenge
@@ -21,11 +21,11 @@ even = numbers[numbers % 2 == 0]
 # Odd mask
 odd = numbers[numbers % 2 != 0]
 This allows the computer to check every number in the array simultaneously, which is a key requirement for data engineering roles at companies like Adobe or Pinterest.
-#Technologies Used
+## Technologies Used
 1. Python
 2. Numpy
 
-#📂 How to Run
+## 📂 How to Run
 1. Clone this repository:
 git clone https://github.com/your-username/numpy-parity-separator.git
 
@@ -34,3 +34,6 @@ pip install numpy
 
 3.Run the script:
 python main.py
+
+## Author
+Rutuja Wagh
