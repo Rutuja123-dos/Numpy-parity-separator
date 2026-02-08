@@ -14,7 +14,6 @@ Memory Efficient: Leverages NumPy arrays for better performance compared to stan
 🧠 Technical Logic: Boolean Masking
 Instead of checking numbers one by one, this project uses the following logic:
 
-Python
 # Even mask
 even = numbers[numbers % 2 == 0]
 
