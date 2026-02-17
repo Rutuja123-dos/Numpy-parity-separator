@@ -5,13 +5,13 @@ A high-performance Python tool designed to separate numerical data into distinct
 Most beginners use for loops and .append() to sort numbers. While that works, it is slow for large datasets. This project demonstrates how to use Normal Logic combined with NumPy's power to process data all at once.
 
 🛠️ Features
-User Input Integration: Accepts a list of numbers directly from the terminal.
+* User Input Integration: Accepts a list of numbers directly from the terminal.
 
-Vectorized Processing: Uses Boolean masking for instant data separation.
+* Vectorized Processing: Uses Boolean masking for instant data separation.
 
-Memory Efficient: Leverages NumPy arrays for better performance compared to standard Python lists.
+* Memory Efficient: Leverages NumPy arrays for better performance compared to standard Python lists.
 
-🧠 Technical Logic: Boolean Masking
+* 🧠 Technical Logic: Boolean Masking
 Instead of checking numbers one by one, this project uses the following logic:
 
 # Even mask
