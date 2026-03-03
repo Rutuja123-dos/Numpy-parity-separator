@@ -1,10 +1,10 @@
 # NumPy Even-Odd Separator 🔢
 A high-performance Python tool designed to separate numerical data into distinct Even and Odd categories using NumPy Vectorization.
 
-🚀 The Challenge
+## 🚀 The Challenge
 Most beginners use for loops and .append() to sort numbers. While that works, it is slow for large datasets. This project demonstrates how to use Normal Logic combined with NumPy's power to process data all at once.
 
-🛠️ Features
+## 🛠️ Features
 * User Input Integration: Accepts a list of numbers directly from the terminal.
 
 * Vectorized Processing: Uses Boolean masking for instant data separation.
@@ -14,10 +14,10 @@ Most beginners use for loops and .append() to sort numbers. While that works, it
 * 🧠 Technical Logic: Boolean Masking
 Instead of checking numbers one by one, this project uses the following logic:
 
-# Even mask
+## Even mask
 even = numbers[numbers % 2 == 0]
 
-# Odd mask
+## Odd mask
 odd = numbers[numbers % 2 != 0]
 This allows the computer to check every number in the array simultaneously, which is a key requirement for data engineering roles at companies like Adobe or Pinterest.
 ## Technologies Used
