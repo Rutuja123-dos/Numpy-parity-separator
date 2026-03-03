@@ -1,4 +1,4 @@
-## NumPy Even-Odd Separator 🔢
+# NumPy Even-Odd Separator 🔢
 A high-performance Python tool designed to separate numerical data into distinct Even and Odd categories using NumPy Vectorization.
 
 🚀 The Challenge
